@@ -1,5 +1,6 @@
 # Stochastic-Gradient-Descent
 
+This notebook is based on [Machine Learning:Classification](https://www.coursera.org/learn/ml-classification/home/welcome) Course by UW on Coursera.
 The goal of this notebook is to implement a logistic regression classifier using stochastic gradient ascent:
 
  * Extract features from Amazon product reviews.
